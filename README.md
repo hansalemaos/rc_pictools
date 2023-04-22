@@ -10,3 +10,5 @@ The first time you click on it, it copies itself to C:\ProgramData\RCTools and c
 From this moment on, you can use the context menu to convert images to bw/gray/.ico
 
 Compiled with nutika
+
+https://github.com/hansalemaos/shellextools
