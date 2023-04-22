@@ -6,4 +6,7 @@ You might need it as an exception in your anti-virus programm:
 
 ![](https://github.com/hansalemaos/rc_pictools/blob/main/asvexception.png?raw=true)
 
+The first time you click on it, it copies itself to C:\ProgramData\RCTools and creates a file - pictools_uninstall.cmd
+From this moment on, you can use the context menu to convert images to bw/gray/.ico
+
 Compiled with nutika
