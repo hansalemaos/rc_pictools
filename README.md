@@ -5,3 +5,5 @@ Useful PIL stuff for the Windows Context Menu (right click)
 You might need it as an exception in your anti-virus programm:
 
 ![](https://github.com/hansalemaos/rc_pictools/blob/main/asvexception.png?raw=true)
+
+Compiled with nutika
